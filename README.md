@@ -26,7 +26,7 @@ This project is a web-based application for managing users, offering full CRUD (
 1. **Clone the Repository**
    ```bash
    git clone git@github.com:ReemTaha-sw/Python_CRUD.git
-   cd Python_CRUD
+   cd Python_CRUD/crud
    ```
 
 2. **Install Dependencies**
